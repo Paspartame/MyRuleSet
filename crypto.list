@@ -1,4 +1,6 @@
 # Crypto Sites not allowed in US or hk
 
 DOMAIN-SUFFIX,infini.money
+# Pionex
 DOMAIN-KEYWORD,pionex
+DOMAIN-KEYWORD,pioneerex
