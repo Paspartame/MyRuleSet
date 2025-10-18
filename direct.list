@@ -9,3 +9,9 @@ DOMAIN-SUFFIX,xiaohongshu.com
 # PersonalDomains
 DOMAIN-SUFFIX,zeld.link
 DOMAIN-SUFFIX,prizedon.top
+# LocalDomains
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,home
+DOMAIN-SUFFIX,home.arpa
+DOMAIN-SUFFIX,localdomain
