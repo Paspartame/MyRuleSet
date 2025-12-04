@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,localdomain
-# Komari Agent Get IPv4
+
+# Komari Agent Get Public IP Address [Ref](https://github.com/komari-monitor/komari-agent/blob/main/monitoring/unit/ip.go)
+# IPv4
 DOMAIN,www.visa.cn,DIRECT
 DOMAIN,www.qualcomm.cn,DIRECT
 DOMAIN,www.toutiao.com,DIRECT
@@ -22,7 +24,7 @@ DOMAIN,edge-ip.html.zone,DIRECT
 DOMAIN,vercel-ip.html.zone,DIRECT
 DOMAIN,ipv4.ip.sb,DIRECT
 DOMAIN,api.ipify.org,DIRECT
-# Komari Agent Get IPv6
+# IPv6
 DOMAIN,v6.ip.zxinc.org,DIRECT
 DOMAIN,api6.ipify.org,DIRECT
 DOMAIN,ipv6.icanhazip.com,DIRECT
