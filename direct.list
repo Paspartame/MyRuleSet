@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
 DOMAIN-SUFFIX,xiaohongshu.com
 # PersonalDomains
-DOMAIN-SUFFIX,prizedon.top
 DOMAIN-SUFFIX,zeld.link
 DOMAIN-SUFFIX,owapi.de
 # LocalDomains
@@ -15,3 +14,16 @@ DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,home
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,localdomain
+# Komari Agent Get IPv4
+DOMAIN,www.visa.cn,DIRECT
+DOMAIN,www.qualcomm.cn,DIRECT
+DOMAIN,www.toutiao.com,DIRECT
+DOMAIN,edge-ip.html.zone,DIRECT
+DOMAIN,vercel-ip.html.zone,DIRECT
+DOMAIN,ipv4.ip.sb,DIRECT
+DOMAIN,api.ipify.org,DIRECT
+# Komari Agent Get IPv6
+DOMAIN,v6.ip.zxinc.org,DIRECT
+DOMAIN,api6.ipify.org,DIRECT
+DOMAIN,ipv6.icanhazip.com,DIRECT
+DOMAIN,api-ipv6.ip.sb,DIRECT
