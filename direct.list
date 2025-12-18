@@ -1,12 +1,5 @@
 # Custom Sites Go Direct
 
-# LocalDomains
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,lan
-DOMAIN-SUFFIX,home
-DOMAIN-SUFFIX,home.arpa
-DOMAIN-SUFFIX,localdomain
-
 # Komari Agent Get Public IP Address [Ref](https://github.com/komari-monitor/komari-agent/blob/main/monitoring/unit/ip.go)
 # IPv4
 DOMAIN,www.visa.cn,DIRECT
