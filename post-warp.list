@@ -1,6 +1,14 @@
 # Custom Sites Go Direct After WARP IP
 
+DOMAIN-SUFFIX,dlmu.edu.cn
+
 # PersonalDomains
+DOMAIN-SUFFIX,bye.su
 DOMAIN-SUFFIX,zeld.link
 DOMAIN-SUFFIX,owapi.de
 DOMAIN-SUFFIX,prizedon.top
+
+# RedNote
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com

@@ -1,12 +1,5 @@
 # Custom Sites Go Direct
 
-DOMAIN-SUFFIX,dlmu.edu.cn
-
-# RedNote
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xiaohongshu.com
-
 # LocalDomains
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,lan
