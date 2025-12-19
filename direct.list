@@ -2,15 +2,15 @@
 
 # Komari Agent Get Public IP Address [Ref](https://github.com/komari-monitor/komari-agent/blob/main/monitoring/unit/ip.go)
 # IPv4
-DOMAIN,www.visa.cn,DIRECT
-DOMAIN,www.qualcomm.cn,DIRECT
-DOMAIN,www.toutiao.com,DIRECT
-DOMAIN,edge-ip.html.zone,DIRECT
-DOMAIN,vercel-ip.html.zone,DIRECT
-DOMAIN,ipv4.ip.sb,DIRECT
-DOMAIN,api.ipify.org,DIRECT
+DOMAIN,www.visa.cn
+DOMAIN,www.qualcomm.cn
+DOMAIN,www.toutiao.com
+DOMAIN,edge-ip.html.zone
+DOMAIN,vercel-ip.html.zone
+DOMAIN,ipv4.ip.sb
+DOMAIN,api.ipify.org
 # IPv6
-DOMAIN,v6.ip.zxinc.org,DIRECT
-DOMAIN,api6.ipify.org,DIRECT
-DOMAIN,ipv6.icanhazip.com,DIRECT
-DOMAIN,api-ipv6.ip.sb,DIRECT
+DOMAIN,v6.ip.zxinc.org
+DOMAIN,api6.ipify.org
+DOMAIN,ipv6.icanhazip.com
+DOMAIN,api-ipv6.ip.sb
