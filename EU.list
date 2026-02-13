@@ -1,4 +1,4 @@
-# Sites available in DE
+# Sites available in EU
 
 DOMAIN-SUFFIX,bybit.eu
 DOMAIN-SUFFIX,coinbase.com
@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,bankera.com
 DOMAIN-SUFFIX,monese.com
 # DOMAIN-SUFFIX,wirexapp.com # Back To HK
+DOMAIN-SUFFIX,getmeru.com
+DOMAIN-SUFFIX,kast.xyz
