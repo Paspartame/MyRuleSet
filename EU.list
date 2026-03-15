@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,bankera.com
 DOMAIN-SUFFIX,monese.com
-# DOMAIN-SUFFIX,wirexapp.com # Back To HK
+# DOMAIN-SUFFIX,wirexapp.com # Back To HKG
 DOMAIN-SUFFIX,getmeru.com
 DOMAIN-SUFFIX,kast.xyz
 DOMAIN-SUFFIX,altery.com
@@ -15,3 +15,5 @@ DOMAIN-SUFFIX,dtcpay.com
 DOMAIN-SUFFIX,thekingdombank.com
 DOMAIN-SUFFIX,zen.com
 DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,cypherhq.io
+DOMAIN-SUFFIX,solflare.com
