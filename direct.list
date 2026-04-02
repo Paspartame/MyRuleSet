@@ -14,3 +14,6 @@ DOMAIN,v6.ip.zxinc.org
 DOMAIN,api6.ipify.org
 DOMAIN,ipv6.icanhazip.com
 DOMAIN,api-ipv6.ip.sb
+
+# Headscale Magic DNS
+DOMAIN-SUFFIX,vlan
