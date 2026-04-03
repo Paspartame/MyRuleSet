@@ -1,6 +1,7 @@
 # Custom Sites Go Direct After WARP IP
 
 DOMAIN-SUFFIX,dlmu.edu.cn
+DOMAIN-SUFFIX,lan
 
 # PersonalDomains
 DOMAIN-SUFFIX,bye.su
