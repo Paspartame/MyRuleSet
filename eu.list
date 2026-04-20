@@ -1,7 +1,18 @@
 # Sites available in EU
 
-DOMAIN-SUFFIX,bybit.eu
-DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,bybit.eu  # Bybit EU
+DOMAIN-SUFFIX,coinbase.com # Coinbase
+# Pionex
+DOMAIN-SUFFIX,pionex.com
+DOMAIN-SUFFIX,pioneerex.org
+# O2 DE
+DOMAIN-SUFFIX,o2online.de
+# MetaMusk
+DOMAIN-SUFFIX,metamask.io
+# Jupiter Card
+DOMAIN-SUFFIX,jup.ag
+# CypherHQ
+DOMAIN-SUFFIX,cypherhq.io
 DOMAIN-SUFFIX,n26.com
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,bankera.com
@@ -15,20 +26,13 @@ DOMAIN-SUFFIX,dtcpay.com
 DOMAIN-SUFFIX,thekingdombank.com
 DOMAIN-SUFFIX,zen.com
 DOMAIN-SUFFIX,trading212.com
-DOMAIN-SUFFIX,cypherhq.io
 DOMAIN-SUFFIX,web3auth.io
 DOMAIN-SUFFIX,solflare.com
 DOMAIN-SUFFIX,solanamobile.com
 DOMAIN-SUFFIX,jeton.com
 DOMAIN-SUFFIX,jetonwallet.com
 DOMAIN-SUFFIX,kxyplatform.com
+# Avici
 DOMAIN-SUFFIX,avici.club
 DOMAIN-SUFFIX,avici.money
 DOMAIN-SUFFIX,onesignal.com
-# MetaMusk
-DOMAIN-SUFFIX,hyperliquid.xyz
-DOMAIN-SUFFIX,metamask.io
-DOMAIN-SUFFIX,infura.io
-# Jupiter Card
-DOMAIN-SUFFIX,privy.io
-DOMAIN-SUFFIX,jup.ag
