@@ -1,38 +1,48 @@
 # Sites available in EU
 
-DOMAIN-SUFFIX,bybit.eu  # Bybit EU
-DOMAIN-SUFFIX,coinbase.com # Coinbase
-# Pionex
-DOMAIN-SUFFIX,pionex.com
-DOMAIN-SUFFIX,pioneerex.org
+# Anti-Fraud
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,web3auth.io
+
+# Bybit EU
+DOMAIN-SUFFIX,bybit.eu
+# Coinbase
+DOMAIN-SUFFIX,coinbase.com
 # O2 DE
 DOMAIN-SUFFIX,o2online.de
 # MetaMusk
 DOMAIN-SUFFIX,metamask.io
+# N26
+DOMAIN-SUFFIX,n26.com
+# Vodafone DE
+DOMAIN-SUFFIX,vodafone.de
+# Bankera
+DOMAIN-SUFFIX,bankera.com
+# Monese
+DOMAIN-SUFFIX,monese.com
+# Quppy
+DOMAIN-SUFFIX,quppy.com
 # Jupiter Card
 DOMAIN-SUFFIX,jup.ag
 # CypherHQ
 DOMAIN-SUFFIX,cypherhq.io
-DOMAIN-SUFFIX,n26.com
-DOMAIN-SUFFIX,vodafone.de
-DOMAIN-SUFFIX,bankera.com
-DOMAIN-SUFFIX,monese.com
-# DOMAIN-SUFFIX,wirexapp.com # Back To HKG
-DOMAIN-SUFFIX,getmeru.com
-DOMAIN-SUFFIX,kast.xyz
-DOMAIN-SUFFIX,altery.com
-DOMAIN-SUFFIX,quppy.com
-DOMAIN-SUFFIX,dtcpay.com
+# The Kingdom Bank
 DOMAIN-SUFFIX,thekingdombank.com
+# Zen
 DOMAIN-SUFFIX,zen.com
+# Altery
+DOMAIN-SUFFIX,altery.com
+# Trading212
 DOMAIN-SUFFIX,trading212.com
-DOMAIN-SUFFIX,web3auth.io
+# Solarflare
 DOMAIN-SUFFIX,solflare.com
 DOMAIN-SUFFIX,solanamobile.com
-DOMAIN-SUFFIX,jeton.com
-DOMAIN-SUFFIX,jetonwallet.com
-DOMAIN-SUFFIX,kxyplatform.com
 # Avici
 DOMAIN-SUFFIX,avici.club
 DOMAIN-SUFFIX,avici.money
 DOMAIN-SUFFIX,onesignal.com
+
+DOMAIN-SUFFIX,getmeru.com
