@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,web3auth.io
+#DOMAIN-SUFFIX,googleapis.com
 
 # Bybit EU
 DOMAIN-SUFFIX,bybit.eu
@@ -27,6 +28,8 @@ DOMAIN-SUFFIX,bankera.com
 DOMAIN-SUFFIX,monese.com
 # Quppy
 DOMAIN-SUFFIX,quppy.com
+# BlackCatCard
+DOMAIN-SUFFIX,blackcatcard.com
 # Jupiter Card
 DOMAIN-SUFFIX,jup.ag
 # CypherHQ

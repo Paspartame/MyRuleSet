@@ -5,3 +5,5 @@ DOMAIN-SUFFIX,redpocket.com
 DOMAIN-SUFFIX,deploypulse.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,posthog.com
+# KOHO
+DOMAIN-SUFFIX,koho.ca
