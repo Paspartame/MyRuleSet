@@ -1,11 +1,15 @@
 # Sites available in EU
 
 # Anti-Fraud
-DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,expo.dev
 DOMAIN-SUFFIX,sentry.io
+DOAMIN-SUFFIX,sardine.ai
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,web3auth.io
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,app-analytics-services.com
+#DOMAIN-SUFFIX,nsureapi.com
 #DOMAIN-SUFFIX,googleapis.com
 
 # Bybit EU
@@ -24,6 +28,9 @@ DOMAIN-SUFFIX,myfin.bg
 DOMAIN-SUFFIX,vodafone.de
 # Bankera
 DOMAIN-SUFFIX,bankera.com
+# Krak&Kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.zendesk.com
 # Monese
 DOMAIN-SUFFIX,monese.com
 # Quppy
