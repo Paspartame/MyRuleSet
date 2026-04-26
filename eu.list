@@ -22,6 +22,12 @@ DOMAIN-SUFFIX,o2online.de
 DOMAIN-SUFFIX,metamask.io
 # N26
 DOMAIN-SUFFIX,n26.com
+# BBVA
+DOMAIN-SUFFIX,bbva.de
+DOMAIN-SUFFIX,bbva.com
+DOMAIN-SUFFIX,caasbbva.com
+DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,igodigital.com
 # MyFin
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
