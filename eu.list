@@ -28,6 +28,10 @@ DOMAIN-SUFFIX,bbva.es
 DOMAIN-SUFFIX,bbva.it
 DOMAIN-SUFFIX,bbva.com
 DOMAIN-SUFFIX,caasbbva.com
+DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,blueshellcloud.com
 # MyFin
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
