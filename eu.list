@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,tealiumiq.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,blueshellcloud.com
-DOMAIN,0.amazon.pool.ntp.org
+DOMAIN-SUFFIX,amazon.pool.ntp.org
 # MyFin
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
