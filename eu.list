@@ -1,19 +1,13 @@
 # Sites available in EU
 
-# Anti-Fraud
-DOMAIN-SUFFIX,expo.dev
-DOMAIN-SUFFIX,sentry.io
-DOAMIN-SUFFIX,sardine.ai
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercom.com
+# Gateways
 DOMAIN-SUFFIX,web3auth.io
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,app-analytics-services.com
-#DOMAIN-SUFFIX,nsureapi.com
-#DOMAIN-SUFFIX,googleapis.com
 
 # Bybit EU
 DOMAIN-SUFFIX,bybit.eu
+# NEXO
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
 # Coinbase
 DOMAIN-SUFFIX,coinbase.com
 # O2 DE
@@ -29,16 +23,11 @@ DOMAIN-SUFFIX,bbva.it
 DOMAIN-SUFFIX,bbva.com
 DOMAIN-SUFFIX,caasbbva.com
 DOMAIN-SUFFIX,tiqcdn.com
-DOMAIN-SUFFIX,tealiumiq.com
-DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,blueshellcloud.com
-DOMAIN-SUFFIX,amazon.pool.ntp.org
+DOMAIN,0.amazon.pool.ntp.org
 # MyFin
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
 DOMAIN-SUFFIX,vodafone.de
-# Bankera
-DOMAIN-SUFFIX,bankera.com
 # Krak&Kraken
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.zendesk.com
@@ -48,6 +37,8 @@ DOMAIN-SUFFIX,monese.com
 DOMAIN-SUFFIX,quppy.com
 # BlackCatCard
 DOMAIN-SUFFIX,blackcatcard.com
+# Bankera
+DOMAIN-SUFFIX,bankera.com
 # Jupiter Card
 DOMAIN-SUFFIX,jup.ag
 # CypherHQ
@@ -56,10 +47,6 @@ DOMAIN-SUFFIX,cypherhq.io
 DOMAIN-SUFFIX,thekingdombank.com
 # Zen
 DOMAIN-SUFFIX,zen.com
-# Altery
-DOMAIN-SUFFIX,altery.com
-# Trading212
-DOMAIN-SUFFIX,trading212.com
 # Solarflare
 DOMAIN-SUFFIX,solflare.com
 DOMAIN-SUFFIX,solanamobile.com
@@ -67,5 +54,3 @@ DOMAIN-SUFFIX,solanamobile.com
 DOMAIN-SUFFIX,avici.club
 DOMAIN-SUFFIX,avici.money
 DOMAIN-SUFFIX,onesignal.com
-
-DOMAIN-SUFFIX,getmeru.com
