@@ -30,6 +30,8 @@ DOMAIN,0.amazon.pool.ntp.org
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
 DOMAIN-SUFFIX,vodafone.de
+# Vodafone NL
+DOMAIN-SUFFIX,vodafone.nl
 # Krak&Kraken
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.zendesk.com
