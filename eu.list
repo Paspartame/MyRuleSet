@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,privy.io
 DOMAIN-SUFFIX,zerodev.app
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipregistry.co
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,lokalise.com
 
 # Bybit EU
 DOMAIN-SUFFIX,bybit.eu
