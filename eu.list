@@ -34,8 +34,12 @@ DOMAIN-SUFFIX,bbva.com
 DOMAIN-SUFFIX,caasbbva.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,tiqcdn.com
+DOMAIN-SUFFIX,igodigital.com
 DOMAIN-SUFFIX,blueshellcloud.com
 DOMAIN,0.amazon.pool.ntp.org
+DOMAIN,518007873.collect.igodigital.com
+DOMAIN,region1.app-analytics-services.com
+DOMAIN,mcbj8f8s544s9zdg0djv-7sdy3hy.device.marketingcloudapis.com
 # MyFin
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
