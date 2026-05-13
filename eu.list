@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipregistry.co
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,lokalise.com
+DOMAIN-SUFFIX,trusteer.com
+DOMAIN-SUFFIX,tealiumiq.com
 
 # Bybit EU
 DOMAIN-SUFFIX,bybit.eu
