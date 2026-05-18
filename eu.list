@@ -57,16 +57,18 @@ DOMAIN-SUFFIX,coca.xyz
 DOMAIN-SUFFIX,wirexapp.com
 # Altery
 DOMAIN-SUFFIX,altery.com
+DOMAIN,e.clarity.ms
+DOMAIN,ota.lokalise.com
 # Quppy
 DOMAIN-SUFFIX,quppy.com
+DOMAIN,quppy.zendesk.com
+DOMAIN,nsximi.launches.appsflyersdk.com
 # BlackCatCard
 DOMAIN-SUFFIX,blackcatcard.com
 # Bankera
 DOMAIN-SUFFIX,bankera.com
 # Jupiter Card
 DOMAIN-SUFFIX,jup.ag
-# CypherHQ
-DOMAIN-SUFFIX,cypherhq.io
 # The Kingdom Bank
 DOMAIN-SUFFIX,thekingdombank.com
 # Zen
