@@ -21,3 +21,8 @@ DOMAIN-SUFFIX,dtcpay.com
 DOMAIN-SUFFIX,coins.ph
 # Kolo
 DOMAIN-SUFFIX,kolo.in
+# World Coin
+DOMAIN-SUFFIX,world.org
+DOMAIN-SUFFIX,worldcoin.org
+DOMAIN-SUFFIX,toolsforhumanity.com
+DOMAIN,worldcoinsupport.zendesk.com
