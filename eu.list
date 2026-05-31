@@ -1,10 +1,10 @@
 # Sites available in EU
 
 # Gateways
-DOMAIN-SUFFIX,web3auth.io
+#DOMAIN-SUFFIX,web3auth.io
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,rhino.fi
-DOMAIN-SUFFIX,privy.io
+#DOMAIN-SUFFIX,privy.io
 DOMAIN-SUFFIX,zerodev.app
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipregistry.co
@@ -37,10 +37,10 @@ DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,igodigital.com
 DOMAIN-SUFFIX,blueshellcloud.com
 DOMAIN,0.amazon.pool.ntp.org
-DOMAIN,518007873.collect.igodigital.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,region1.app-analytics-services.com
-DOMAIN,mcbj8f8s544s9zdg0djv-7sdy3hy.device.marketingcloudapis.com
+#DOMAIN,518007873.collect.igodigital.com
+#DOMAIN,firebaselogging-pa.googleapis.com
+#DOMAIN,region1.app-analytics-services.com
+#DOMAIN,mcbj8f8s544s9zdg0djv-7sdy3hy.device.marketingcloudapis.com
 # MyFin
 DOMAIN-SUFFIX,myfin.bg
 # Vodafone DE
