@@ -17,6 +17,3 @@ DOMAIN,api-ipv6.ip.sb
 
 # Headscale Magic DNS
 DOMAIN-SUFFIX,vlan
-
-# Lyricify
-DOMAIN-SUFFIX,lyricify.app
