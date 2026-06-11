@@ -67,6 +67,9 @@ DOMAIN,nsximi.launches.appsflyersdk.com
 DOMAIN-SUFFIX,blackcatcard.com
 # Luxon Pay
 DOMAIN-SUFFIX,luxon.com
+# Moneybase
+DOMAIN-SUFFIX,moneybase.com
+DOMAIN-SUFFIX,storyly.io
 # Bankera
 DOMAIN-SUFFIX,bankera.com
 # Jupiter Card
